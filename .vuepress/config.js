@@ -1,9 +1,10 @@
 module.exports = {
   theme: 'reco',
   title: '系统文档使用手册',
+  description: '荷尽已无擎雨盖，菊残犹有傲霜枝',
   head: [
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
-    ['meta', { name: 'renderer', content: 'IE=edge' }],
+    ['link', {rel: 'icon', href: '/images/05.ico'}],
+    // ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   plugins: 
   [
@@ -21,6 +22,7 @@ markdown: {
 },
   themeConfig: {
     logo: '/images/05.png',
+    authorAvatar: '/images/02.png',
     subSidebar: 'auto',/* 子菜单自动展开 */
     // navbar: false
     nav: require("./nav.js"),
@@ -48,6 +50,13 @@ markdown: {
     //   recordIP: true,
     //   showComment: false
     // },
+            // Github链接
+            repo: 'mencs/demo',
+            repoLabel: "Github",
+            docsBranch: "login",
+            editLinks: true,
+            editLinkText: "在 Github 上编辑此页",
+            // docsDir: 'docs',
      // 密钥
      keyPage: {
       keys: ['e10adc3949ba59abbe56e057f20f883e'], // 1.3.0 版本后需要设置为密文
