@@ -1,14 +1,11 @@
 ---
 title: 基础功能操作
 date: 2020-10-23
-sticky: 3
-keys:
- - 'e10adc3949ba59abbe56e057f20f883e'
 categories:
  - 基础操作
 tags:
  - 基础
-isShowComments: false
+isShowComments: true
 ---
 
 ::: warning 基础操作:

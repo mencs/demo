@@ -1,5 +1,12 @@
 ---
-#  subSidebar: auto
+title: 基础功能操作
+date: 2020-10-23
+sticky: 7
+categories:
+ - 基础操作
+tags:
+ - 基础
+isShowComments: false
 ---
 # 哈哈哈哈
 ##  哈哈哈11

@@ -24,21 +24,32 @@ module.exports = [
     title:'任务办理',
     collapsable: true,
     children:[
-    '/user/user1',
+    '/user/user4',
     ]
   },
   {
     title:'公文管理',
     collapsable: true,
     children:[
-    '/user/user1',
+    '/user/user5',
     ]
   },
   {
     title:'个人管理',
     collapsable: true,
     children:[
-    '/user/user1',
+    '/user/user6',
+    '/user/user7',
+    '/user/user8',
+    '/user/user9',
+    '/user/user10',
+    '/user/user11',
+    '/user/user12',
+    '/user/user13',
+    '/user/user14',
+    '/user/user15',
+    '/user/user16',
+    '/user/user17',
     ]
   }
 ]

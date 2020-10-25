@@ -1,6 +1,9 @@
 ---
 home: true
 heroImage: /images/05.png
+bgImageStyle: { height: '450px'}
+heroText: 南风过境
+tagline: 今夕何夕,见此良人
 actionText: 快速上手 →
 actionLink: /user/
 features:

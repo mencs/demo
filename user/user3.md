@@ -2,7 +2,6 @@
 title: "vuepress-theme-reco主题开发"
 date: 2020-10-14 16:41:12
 sidebar: true
-sidebarDepth: 5
 tags: 
 - 哈哈哈
 categories:
