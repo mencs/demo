@@ -2,8 +2,9 @@
 home: true
 heroImage: /images/05.png
 bgImageStyle: { height: '450px'}
-heroText: 南风过境
-tagline: 今夕何夕,见此良人
+heroText: 系统文档使用手册
+tagline: 快速上手 →
+# tagline: 荷尽已无擎雨盖，菊残犹有傲霜枝
 actionText: 快速上手 →
 actionLink: /user/
 features:
